@@ -58,6 +58,11 @@ A basic differential amplifier circuit consists of two identical transistors (BJ
 
      Output Waveforms:
    ![Screenshot 2025-03-03 185622](https://github.com/user-attachments/assets/6ca62960-9f69-4321-8adb-db5ff95439f6)
+
+    Input & Output Waveforms
+   ![Screenshot 2025-03-03 185925](https://github.com/user-attachments/assets/61a435c1-ce8c-43bf-9e61-8f4eff27ead3)
+
+
    
 
 
