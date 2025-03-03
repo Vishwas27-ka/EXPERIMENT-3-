@@ -1,4 +1,4 @@
-## Aim : Design and Analyze the MOS differential amplifier circuitfor the following specifications 
+ ## Aim : Design and Analyze the MOS differential amplifier circuitfor the following specifications 
 
 ## Components Required :
 N-MOSFET(nmos4),Resistors(3.5k,0.5k,voltage source)
@@ -7,8 +7,9 @@ A differential amplifier is a type of electronic amplifier that amplifies the di
 It is a fundamental building block in analog circuits, commonly used in operational amplifiers (op-amps) and instrumentation amplifiers.
  ## 1. Basic Principle
 The differential amplifier operates on the principle of differential mode gain and common-mode rejection:
+
    1.Differential Mode: The amplifier amplifies the difference between two input signals.
-    2.Common Mode: Signals that are common to both inputs (such as noise or interference) are ideally rejected.
+   2.Common Mode: Signals that are common to both inputs (such as noise or interference) are ideally rejected.
 Mathematically, the output voltage of an ideal differential amplifier is given by:
 Vout =Ad(V1−V2)
 Ad= Differential mode gain
@@ -70,15 +71,19 @@ A basic differential amplifier circuit consists of two identical transistors (BJ
 
    ## DC analysis
    ![Screenshot 2025-03-03 182044](https://github.com/user-attachments/assets/d2e5eb08-88cf-42d5-ba51-910d5987b728)
+   ##  ID=0.45ma
+   ##  ID=0.45ma
+   ##  vicm=1.65V
+    ## vicm=1.65V
 
    ## Transient  analysis:
-     Input Waveforms:
+   ## Input Waveforms:
    ![Screenshot 2025-03-03 185554](https://github.com/user-attachments/assets/c8bb644c-d745-4865-b7c9-e32cdd8cd2f9)
 
    ##   Output Waveforms:
    ![Screenshot 2025-03-03 185622](https://github.com/user-attachments/assets/6ca62960-9f69-4321-8adb-db5ff95439f6)
 
-    Input & Output Waveforms
+   ##  Input & Output Waveforms
    ![Screenshot 2025-03-03 185925](https://github.com/user-attachments/assets/61a435c1-ce8c-43bf-9e61-8f4eff27ead3)
 
    ## AC analysis
@@ -109,67 +114,6 @@ A basic differential amplifier circuit consists of two identical transistors (BJ
 
    ![Screenshot 2025-03-03 195221](https://github.com/user-attachments/assets/133158a1-3a67-436b-8294-6aea69a26047)
 
-   ## Circuit 3 : 
-
-   ![Screenshot 2025-03-03 193752](https://github.com/user-attachments/assets/5bbac49e-928d-4a73-a188-0c2bc2b40378)
-
-   ## DC analysis
-  ![Screenshot 2025-03-03 182044](https://github.com/user-attachments/assets/a779d09f-cdef-4901-9508-51ba2d0aa34d)
-
-  
-##  ID=0.45ma
-##  ID=0.45ma
-##  vicm=1.65V
-## vicm=1,65V
-
-## Transient  analysis:
-  ##  Input Waveforms:
-   ![Screenshot 2025-03-03 185554](https://github.com/user-attachments/assets/c8bb644c-d745-4865-b7c9-e32cdd8cd2f9)
-
-   ##   Output Waveforms:
-   ![Screenshot 2025-03-03 185622](https://github.com/user-attachments/assets/6ca62960-9f69-4321-8adb-db5ff95439f6)
-
-   ##   Input & Output Waveforms
-   ![Screenshot 2025-03-03 185925](https://github.com/user-attachments/assets/61a435c1-ce8c-43bf-9e61-8f4eff27ead3)
-
-## AC analysis
-   ![Screenshot 2025-03-03 193142](https://github.com/user-attachments/assets/fbccdbd3-a18f-4d00-9489-12cc5142d96f)
-
-   ## Circuit 2 : 
-   ![Screenshot 2025-03-03 193752](https://github.com/user-attachments/assets/c4c251fd-e6fa-4967-afbd-721e38ac6f74)
-
-   ## DC analysis
-   ![Screenshot 2025-03-03 182044](https://github.com/user-attachments/assets/d2e5eb08-88cf-42d5-ba51-910d5987b728)
-  ##  ID=0.45ma
-  ##  ID=0.45ma
-  ##  vicm=1.65V
-  ##  vicm=1.65V
-
-   ## Transient  analysis:
-   ##  Input Waveforms:
-   ![Screenshot 2025-03-03 185554](https://github.com/user-attachments/assets/c8bb644c-d745-4865-b7c9-e32cdd8cd2f9)
-
-   ##   Output Waveforms:
-   ![Screenshot 2025-03-03 185622](https://github.com/user-attachments/assets/6ca62960-9f69-4321-8adb-db5ff95439f6)
-   ##  ID=0.45ma
-   ##  ID=0.45ma
-   ##  vicm=1.65V
-   ##  vicm=1.65V
-
-   ## Input & Output Waveforms
-   ![Screenshot 2025-03-03 185925](https://github.com/user-attachments/assets/61a435c1-ce8c-43bf-9e61-8f4eff27ead3)
-
-   ## AC analysis
-   ![Screenshot 2025-03-03 193142](https://github.com/user-attachments/assets/fbccdbd3-a18f-4d00-9489-12cc5142d96f)
-
-
-   
-
-   
-   
-
-
-    
 
 
    
