@@ -50,7 +50,7 @@ A basic differential amplifier circuit consists of two identical transistors (BJ
 ##  ID=0.45ma
 ##  ID=0.45ma
 ##  vicm=1.65V
-## vicm=1,65V
+## vicm=1.65V
 
 ## Transient  analysis:
   ##  Input Waveforms:
@@ -90,6 +90,10 @@ A basic differential amplifier circuit consists of two identical transistors (BJ
    ## DC analysis
 
    ![Screenshot 2025-03-03 185147](https://github.com/user-attachments/assets/b40d8f64-a805-491a-b9bd-d7e4c3291afe)
+   ##  ID=0.45ma
+   ##  ID=0.45ma
+   ##  vicm=1.65V
+   ## vicm=1.65V
 
    ## Transient  analysis:
      Input Waveforms:
@@ -104,6 +108,59 @@ A basic differential amplifier circuit consists of two identical transistors (BJ
    ## AC analysis
 
    ![Screenshot 2025-03-03 195221](https://github.com/user-attachments/assets/133158a1-3a67-436b-8294-6aea69a26047)
+
+   ## Circuit 3 : 
+
+   ![Screenshot 2025-03-03 193752](https://github.com/user-attachments/assets/5bbac49e-928d-4a73-a188-0c2bc2b40378)
+
+   ## DC analysis
+  ![Screenshot 2025-03-03 182044](https://github.com/user-attachments/assets/a779d09f-cdef-4901-9508-51ba2d0aa34d)
+
+  
+##  ID=0.45ma
+##  ID=0.45ma
+##  vicm=1.65V
+## vicm=1,65V
+
+## Transient  analysis:
+  ##  Input Waveforms:
+   ![Screenshot 2025-03-03 185554](https://github.com/user-attachments/assets/c8bb644c-d745-4865-b7c9-e32cdd8cd2f9)
+
+   ##   Output Waveforms:
+   ![Screenshot 2025-03-03 185622](https://github.com/user-attachments/assets/6ca62960-9f69-4321-8adb-db5ff95439f6)
+
+   ##   Input & Output Waveforms
+   ![Screenshot 2025-03-03 185925](https://github.com/user-attachments/assets/61a435c1-ce8c-43bf-9e61-8f4eff27ead3)
+
+## AC analysis
+   ![Screenshot 2025-03-03 193142](https://github.com/user-attachments/assets/fbccdbd3-a18f-4d00-9489-12cc5142d96f)
+
+   ## Circuit 2 : 
+   ![Screenshot 2025-03-03 193752](https://github.com/user-attachments/assets/c4c251fd-e6fa-4967-afbd-721e38ac6f74)
+
+   ## DC analysis
+   ![Screenshot 2025-03-03 182044](https://github.com/user-attachments/assets/d2e5eb08-88cf-42d5-ba51-910d5987b728)
+  ##  ID=0.45ma
+  ##  ID=0.45ma
+  ##  vicm=1.65V
+  ##  vicm=1.65V
+
+   ## Transient  analysis:
+   ##  Input Waveforms:
+   ![Screenshot 2025-03-03 185554](https://github.com/user-attachments/assets/c8bb644c-d745-4865-b7c9-e32cdd8cd2f9)
+
+   ##   Output Waveforms:
+   ![Screenshot 2025-03-03 185622](https://github.com/user-attachments/assets/6ca62960-9f69-4321-8adb-db5ff95439f6)
+   ##  ID=0.45ma
+   ##  ID=0.45ma
+   ##  vicm=1.65V
+   ##  vicm=1.65V
+
+   ## Input & Output Waveforms
+   ![Screenshot 2025-03-03 185925](https://github.com/user-attachments/assets/61a435c1-ce8c-43bf-9e61-8f4eff27ead3)
+
+   ## AC analysis
+   ![Screenshot 2025-03-03 193142](https://github.com/user-attachments/assets/fbccdbd3-a18f-4d00-9489-12cc5142d96f)
 
 
    
