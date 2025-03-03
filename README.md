@@ -77,7 +77,7 @@ A basic differential amplifier circuit consists of two identical transistors (BJ
    ##  ID=0.45ma
    ##  ID=0.45ma
    ##  vicm=1.65V
-    ## vicm=1.65V
+   ## vicm=1.65V
 
    ## Transient  analysis:
    ## Input Waveforms:
