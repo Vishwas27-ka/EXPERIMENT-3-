@@ -41,6 +41,7 @@ A basic differential amplifier circuit consists of two identical transistors (BJ
 
 7.For AC analysis, we should do some changes like converting DC SOURCE to sinosoidal waveform (1.2,50m,1T),after that select the AC simulation from the given options of simulation after giving values of (Decade,20,01,1T). So we will get a output after placing node to output waveform .
 ## Circuit 1 : 
-   
+   ![Screenshot 2025-03-03 182032](https://github.com/user-attachments/assets/f4a71dd3-2725-45f5-8a47-11833991f2fa)
+
 
 
