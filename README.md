@@ -45,12 +45,12 @@ A basic differential amplifier circuit consists of two identical transistors (BJ
 ## DC analysis
 
      ![Screenshot 2025-03-03 182044](https://github.com/user-attachments/assets/cd4afe09-7fd0-4815-9d64-2514cf1ddbf6)
-## Transient  analysis
-     ## Input Waveforms
+## Transient  analysis:
+     ## Input Waveforms:
      
       ![Screenshot 2025-03-03 185554](https://github.com/user-attachments/assets/0db92f33-0a03-4d82-9189-e875bb43f12b)
 
-     ## Output Waveforms
+     ## Output Waveforms:
      
         ![Screenshot 2025-03-03 185622](https://github.com/user-attachments/assets/be82d428-b96c-4b95-9d78-02b8e48ddca3)
         
