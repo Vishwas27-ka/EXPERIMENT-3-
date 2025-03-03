@@ -1,11 +1,14 @@
-Aim : Design and Analyze the MOS differential amplifier circuitfor the following specifications 
-Components Required :N-MOSFET(nmos4),Resistors(3.5k,0.5k,voltage source)
-Definiton:A differential amplifier is a type of electronic amplifier that amplifies the difference between two input voltages while rejecting any voltage that is common to both inputs. 
+## Aim : Design and Analyze the MOS differential amplifier circuitfor the following specifications 
+
+## Components Required :
+N-MOSFET(nmos4),Resistors(3.5k,0.5k,voltage source)
+## Definiton:
+A differential amplifier is a type of electronic amplifier that amplifies the difference between two input voltages while rejecting any voltage that is common to both inputs. 
 It is a fundamental building block in analog circuits, commonly used in operational amplifiers (op-amps) and instrumentation amplifiers.
-1. Basic Principle
+ ## 1. Basic Principle
 The differential amplifier operates on the principle of differential mode gain and common-mode rejection:
-1.Differential Mode: The amplifier amplifies the difference between two input signals.
-2.Common Mode: Signals that are common to both inputs (such as noise or interference) are ideally rejected.
+   1.Differential Mode: The amplifier amplifies the difference between two input signals.
+    2.Common Mode: Signals that are common to both inputs (such as noise or interference) are ideally rejected.
 Mathematically, the output voltage of an ideal differential amplifier is given by:
 Vout =Ad(V1−V2)
 Ad= Differential mode gain
@@ -22,7 +25,7 @@ A basic differential amplifier circuit consists of two identical transistors (BJ
    Inputs: V1=V2 (same signal applied to both inputs)
    Ideally, the output should be zero (common-mode rejection).
    Practical circuits have a Common-Mode Rejection Ratio (CMRR) to measure the effectiveness of common-mode noise rejection.
-Procedure :
+## Procedure :
 
 1.Open the LTspice software, merge the library file for getting accurate values of NMOS.
 
