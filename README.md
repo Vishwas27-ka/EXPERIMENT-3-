@@ -117,6 +117,29 @@ A basic differential amplifier circuit consists of two identical transistors (BJ
 
    ![Screenshot 2025-03-03 195221](https://github.com/user-attachments/assets/133158a1-3a67-436b-8294-6aea69a26047)
 
+   ## Inference
+   A MOSFET-based differential amplifier functions similarly to a BJT differential amplifier, but with different voltage-current relationships. MOSFETs offer high input impedance, low power dissipation, and are widely used in integrated circuits (ICs).
+   ## 1. DC Analysis
+   Ensures MOSFETs are in the saturation region.
+   Defines the Q-point (operating region) of the amplifier.
+   Establishes a stable bias current for amplification.
+  ## 2.Inference from AC Analysis:
+   Determines differential gain and common-mode rejection.
+   Helps in designing high-gain, low-noise amplifiers.
+    High input impedance due to MOSFETs.
+  ## 3.Inference on Bandwidth:
+    MOSFET differential amplifiers have a higher bandwidth compared to BJT counterparts.
+    Used in high-speed circuits like RF and communication systems.
+   ##  Overall Inference:
+   ##  DC Analysis
+        ensures MOSFETs operate in the saturation region with a stable bias current.
+   ##  AC Analysis 
+       determines gain, impedance, and common-mode rejection.
+   ##  Bandwidth Analysis s
+      hows the impact of capacitances on frequency response, with MOSFET amplifiers generally having higher bandwidth than BJTs.
+    
+
+
 
 
    
