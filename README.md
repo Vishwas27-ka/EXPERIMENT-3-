@@ -1,8 +1,11 @@
  ## Aim : Design and Analyze the MOS differential amplifier circuitfor the following specifications 
+ ## Design and analyze the differential amplifier for the following sepecifications
+## VDD=3.3V,P<3mw Vicm=1.65V Vocm 1.7V vp=0.5V 
+## Perform:-DC analysis,Transient Analysis,AC analysis.
 
 ## Components Required :
 N-MOSFET(nmos4),Resistors(3.5k,0.5k,voltage source)
-## Definiton:
+## Theory of Differential Amplifier:
 A differential amplifier is a type of electronic amplifier that amplifies the difference between two input voltages while rejecting any voltage that is common to both inputs. 
 It is a fundamental building block in analog circuits, commonly used in operational amplifiers (op-amps) and instrumentation amplifiers.
  ## 1. Basic Principle
