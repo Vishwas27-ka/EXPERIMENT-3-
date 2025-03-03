@@ -13,6 +13,7 @@ V1=Non inverting Terminal
 V2=Inverting Terminal
 A basic differential amplifier circuit consists of two identical transistors (BJTs or MOSFETs) or operational amplifiers, forming a symmetrical configuration
 3. Modes of Operation:A differential amplifier operates in two primary modes:
+   
    (a) Differential Mode
     Inputs:V1=+V,V2=-V
     The output voltage is proportional to the difference between the inputs.
