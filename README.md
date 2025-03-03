@@ -12,6 +12,7 @@ It is a fundamental building block in analog circuits, commonly used in operatio
 The differential amplifier operates on the principle of differential mode gain and common-mode rejection:
 
    1.Differential Mode: The amplifier amplifies the difference between two input signals.
+   
    2.Common Mode: Signals that are common to both inputs (such as noise or interference) are ideally rejected.
 Mathematically, the output voltage of an ideal differential amplifier is given by:
 Vout =Ad(V1−V2)
